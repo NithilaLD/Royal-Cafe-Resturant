@@ -10,7 +10,7 @@
   <!-- 
     - favicon
   -->
-  <link rel="shortcut icon" href="./favicon.svg" type="image/svg+xml">
+  <link href="assets/img/favicon.png" rel="icon">
 
   <!-- 
     - custom css link
